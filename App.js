@@ -16,8 +16,8 @@ import HomeScreen from './screens/HomeScreen';
 
 function AnotherScreen() {
   return (
-    <View style={styles.screenContainer}>
-      <Text style={styles.screenTitle}>Another Screen</Text>
+    <View >
+      <Text >Another Screen</Text>
       {/* Additional content for Another Screen */}
     </View>
   );

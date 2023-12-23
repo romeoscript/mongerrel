@@ -521,7 +521,7 @@ const styles = StyleSheet.create({
 
   placeholder: {
     fontSize: 17,
-    fontStyle: 'uppercase',
+    textTransform: 'uppercase', 
     paddingLeft: 20,
   },
 
